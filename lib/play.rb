@@ -44,4 +44,5 @@ def play(board)
     if turns == 9
       break
     end
+  end
 end
